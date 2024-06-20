@@ -1,18 +1,4 @@
-## Coding Quiz (2024)
-by Austin Drury
-
-## Link:
-[Link to Live URL]
-
-## Description:
-The motivation and idea behind this project was to create a coding quiz application. The app needed to run in a browser and feature dynamically updated HTML & CSS powered by JavaScript.
-
-## Usage:
-[SCREENSHOT 1]
-[SCREENSHOT 2]
-
-## License:
-MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2024 Austin Drury
 

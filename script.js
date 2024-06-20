@@ -19,12 +19,12 @@ let currentQuestionIndex, timeLeft, timerInterval;
 
 const questions = [
     {
-        question: "What is the output of `console.log(typeof [])`?",
+        question: "Which HTML element is used to define an unordered list?",
         answers: [
-            { text: "Array", correct: false },
-            { text: "Object", correct: true },
-            { text: "ArrayObject", correct: false },
-            { text: "undefined", correct: false }
+            { text: "<ul>", correct: true },
+            { text: "<li>", correct: false },
+            { text: "<ol>", correct: false },
+            { text: "<u>", correct: false }
         ],
         score: 10
     },
@@ -49,12 +49,32 @@ const questions = [
         score: 10
     },
     {
+        question: "Which of the following is a JavaScript framework?",
+        answers: [
+            { text: "React", correct: true },
+            { text: "Laravel", correct: false },
+            { text: "Django", correct: false },
+            { text: "Spring", correct: false }
+        ],
+        score: 10
+    },
+    {
         question: "Which of the following languages allows for dynamic information and interactivity on web pages for web development?",
         answers: [
             { text: "Cascading Style Sheets", correct: false },
             { text: "Python", correct: false },
             { text: "Ruby", correct: false },
             { text: "JavaScript", correct: true }
+        ],
+        score: 10
+    },
+    {
+        question: "Which CSS property is used to change the background color?",
+        answers: [
+            { text: "color", correct: false },
+            { text: "background-color", correct: true },
+            { text: "bg-color", correct: false },
+            { text: "bg", correct: false }
         ],
         score: 10
     }

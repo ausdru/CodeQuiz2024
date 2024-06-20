@@ -1,6 +1,18 @@
-MIT License
+## Coding Quiz (2024)
+by Austin Drury
 
-Copyright (c) 2024 Austin Drury
+## Link:
+[Link to Live URL]
+
+## Description:
+The motivation and idea behind this project was to create a coding quiz application. The app needed to run in a browser and feature dynamically updated HTML & CSS powered by JavaScript.
+
+## Usage:
+[SCREENSHOT 1]
+[SCREENSHOT 2]
+
+## License:
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +31,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Copyright (c) 2024 Austin Drury
